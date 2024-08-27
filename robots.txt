@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avensone.github.io/sitemap.html.gz
+Sitemap: https://avensone.github.io/app/sitemap.html.gz
+Sitemap: https://avensone.github.io/assets/sitemap.html.gz
+Sitemap: https://avensone.github.io/css/sitemap.html.gz
+Sitemap: https://avensone.github.io/includes/sitemap.html.gz
+Sitemap: https://avensone.github.io/item/sitemap.html.gz
+Sitemap: https://avensone.github.io/src/sitemap.html.gz
